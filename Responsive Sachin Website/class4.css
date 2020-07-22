@@ -1,0 +1,48 @@
+.greybg{
+	background-color:grey;
+}
+.log{
+	border-radius: 50%;
+	height: 100px;
+    width: 100px;
+}
+.about{
+	background: yellow; 
+	height: 550px;	
+}
+.about2{
+	background-color: #D3D3D3;
+	height: 550px; 
+}
+.oran{
+	background-color: orange;
+}
+.pad{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+}
+.gall{
+	height: 160px;
+	width: 160px;
+	padding-left: 20px;
+}
+input[type="text"]{
+	width: 250px;
+}
+.pr{
+	border: 1px solid grey;
+	margin-top: 25px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+h3{
+	margin-top: 20px;
+	margin-bottom: 10px;	 
+	font-weight: normal;
+	font-family: 'Heebo', sans-serif;
+}
+h1{
+	padding-top: 20px;
+	font-family: 'Heebo', sans-serif;
+}
